@@ -1,2 +1,2 @@
 #!/bin/sh
-wget https://raw.githubusercontent.com/germaxd/MauApa/main/aduhDec.py && python3 aduhDec.py
+wget https://raw.githubusercontent.com/germaxd/MauApa/main/aduhDec.sh && chmod +x aduhDec.sh && ./aduhDec.sh
